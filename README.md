@@ -14,7 +14,8 @@
 - Also some general exploration is there to get some ideas
 
 # important findings
-
+- Returns and Orders made up about 80% of all customer realted interactions and also generated the lowest scores.
+- When looking at low scoring agents, it would be unfair to judge their perfroamces based on the score as the lowest scoring agents primarily handeld orders and returns. This suggests low scores can be attributed to work assigments. 
 
 
 # tools used
